@@ -16,6 +16,8 @@
   <li>If a player's total score reaches or exceeds 100, they win the game.</li>
   <li>Click the "New Game" button to reset the game and start a new round.</li>
 </ol>
+<h2>Preview</h2>
+<img src="images/game.png" alt="Preview">
 
 <h2>File Structure</h2>
 
