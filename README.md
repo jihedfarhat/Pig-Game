@@ -2,7 +2,7 @@
 
 <p>Pig Game is a simple dice rolling game implemented using HTML, CSS, and JavaScript. The game allows two players to take turns rolling a dice and accumulating points. The first player to reach a score of 100 wins the game.</p>
 
-<a href="https://guess-my-number-jihed.netlify.app" target="_blank">  <img src="images/game.png" alt="Preview" width = "50px">
+<a href="https://pig-game-jihed.netlify.app" target="_blank">  <img src="images/game.png" alt="Preview" width = "50px">
 
 <h2>How to Play</h2>
 
